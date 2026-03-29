@@ -25,14 +25,15 @@ I combine a microbiology and immunology background with computational biology, d
 
 Colorectal cancer has high global incidence and mortality, yet fewer than 20% of stage III patients respond to 5‑FU–based chemotherapy. This project integrates bulk transcriptomics, spatial single‑cell proteomics, and clinical covariates to predict chemotherapy response and identify novel biomarkers rooted in the tumour microenvironment.
 
-In this repo I focus on:
 - RNA‑seq pre‑processing, QC, and pathway‑level signatures (e.g. proliferation, apoptosis, EMT). 
 - Spatial feature engineering from stained tissue sections (cell identity, state, and neighbourhoods). 
 - Supervised / deep learning models for multimodal prediction and model interpretability.
 
-- - **Equine colic detection system:** ML‑based early‑warning system using video behaviour data; dataset curation and CVAT annotation (bounding boxes, events, posture transitions).
+### Equine colic detection system
+ML‑based early‑warning system using video behaviour data; dataset curation and CVAT annotation (bounding boxes, events, posture transitions).
     
-- **Burkholderia cenocepacia in CF:** UCD research project on bacterial adaptation in chronic infection, typing previously undefined colony variants. 
+### Burkholderia cenocepacia in CF
+UCD research project on bacterial adaptation in chronic infection, typing previously undefined colony variants. 
 
 ---
 
