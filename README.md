@@ -3,7 +3,7 @@
 
 # Alanna Doherty
 
-MSc Technologies and Analytics in Precision Medicine @ RCSI · BSc Microbiology (Top of Class) @ UCD 
+MSc Technologies and Analytics in Precision Medicine @ RCSI · BSc Microbiology Ranked 1st Overall @ UCD 
 Interested in immunology, the microbiome, and computational approaches to precision medicine.
 
 - Email: alladagiant@gmail.com  
