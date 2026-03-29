@@ -37,14 +37,13 @@ UCD research project on bacterial adaptation in chronic infection, typing previo
 
 ---
 
-
 ## Languages and Tools
 
 | Area                      | Stack |
 |---------------------------|-------|
 | Languages & Scripting     | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white) |
-| Data Science & Stats      | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white) |
+| Data Science & Stats      | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) |
 | ML & Modelling            | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
-| Bioinformatics & Omics    | ![RNA-Seq](https://img.shields.io/badge/RNA--seq-Informal-blue) ![WGS](https://img.shields.io/badge/WGS-Informal-green) ![Proteomics](https://img.shields.io/badge/Proteomics-Informal-purple) |
-| Tools & Infrastructure    | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white
-
+| Bioinformatics & Omics    | ![RNA-seq](https://img.shields.io/badge/RNA--seq-006699) ![WGS](https://img.shields.io/badge/WGS-009966) ![Proteomics](https://img.shields.io/badge/Proteomics-663399) |
+| Tools & Infrastructure    | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) |
+| Annotation & Labelling    | ![CVAT](https://img.shields.io/badge/CVAT-Annotation-7B42F6) |
