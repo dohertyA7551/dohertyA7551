@@ -17,7 +17,7 @@ I combine a microbiology and immunology background with computational biology, d
 
 ---
 
-## Current research
+## Research
 
 ### Spatial omics & chemotherapy response (MSc TAPM)
 
@@ -30,9 +30,13 @@ In this repo I focus on:
 - Spatial feature engineering from stained tissue sections (cell identity, state, and neighbourhoods). 
 - Supervised / deep learning models for multimodal prediction and model interpretability.
 
+- - **Equine colic detection system:** ML‑based early‑warning system using video behaviour data; dataset curation and CVAT annotation (bounding boxes, events, posture transitions).
+    
+- **Burkholderia cenocepacia in CF:** UCD research project on bacterial adaptation in chronic infection, typing previously undefined colony variants. 
+
 ---
 
-## Skills used in this repo
+## Skills 
 
 - **Programming & data:** R, Python, R Shiny, Linux; data cleaning, QC, and statistical modelling (survival, correlation, treatment‑effect estimation). 
 - **Bioinformatics:** RNA‑seq and WGS workflows, multiple sequence alignment, proteomics data handling. 
@@ -40,7 +44,6 @@ In this repo I focus on:
 
 ---
 
-## Other projects
+=
 
-- **Equine colic detection system:** ML‑based early‑warning system using video behaviour data; dataset curation and CVAT annotation (bounding boxes, events, posture transitions). 
-- **Burkholderia cenocepacia in CF:** UCD research project on bacterial adaptation in chronic infection, typing previously undefined colony variants. 
+
