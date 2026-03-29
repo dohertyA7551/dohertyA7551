@@ -7,7 +7,7 @@ MSc Technologies and Analytics in Precision Medicine @ RCSI · BSc Microbiology 
 Interested in immunology, the microbiome, and computational approaches to precision medicine. [file:2]
 
 - Email: alladagiant@gmail.com [file:2]  
-- LinkedIn: https://linkedin.com/in/alanna-doherty [file:2]  
+- LinkedIn: https://www.linkedin.com/in/alanna-doherty8/
 
 ---
 
